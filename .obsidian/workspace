@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "66a77e1381b3f717",
+    "type": "split",
+    "children": [
+      {
+        "id": "48fc2f0e2b5b1f27",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Module 2.5 - Amazon SQS Messaging and Queueing.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6c34ad962bdc206",
+    "type": "split",
+    "children": [
+      {
+        "id": "6edddd0f0f34db69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2996f9c73e8a3aaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "05ec377d3eea3a28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407
+  },
+  "right": {
+    "id": "b0efdb6a2b946674",
+    "type": "split",
+    "children": [
+      {
+        "id": "633319be0b113260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb37b07a7e22fe87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Module 2.5 - Amazon SQS Messaging and Queueing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "48fc2f0e2b5b1f27",
+  "lastOpenFiles": [
+    "Module 2.5 - Amazon SQS Messaging and Queueing.md",
+    "Module 1 - Introduction to Aws.md",
+    "Module 10.2 - Benefit of AWS Cloud.md",
+    "Untitled.md",
+    "Module 10.1 - The AWS Well-Architected Framework.md",
+    "Module 9.3 - AWS Snow family.md",
+    "Module 8.2 - AWS pricing concepts.md",
+    "Module 2.6 - Additional compute services.md",
+    "Module 3.3 - Provision AWS resources.md",
+    "Module 4.2 - Subnets and network access control lists.md"
+  ]
+}
